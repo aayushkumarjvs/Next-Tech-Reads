@@ -1,0 +1,41 @@
+# Collabrative Filtering data set taken from Collective Intelligence book.
+#Rating are out of 50 which are mapped to the particular emotion.
+
+
+dataset_emotion= {
+			'fun': {'Lady in the Water': 29.0, 
+							'Snakes on a Plane': 37.0,
+							'Just My Luck': 38.0, 
+							'Superman Returns': 35.0, 
+							'You, Me and Dupree': 12.0,
+							'The Night Listener': 31.0},
+			'sadness': {'Lady in the Water': 13.0, 
+							'Snakes on a Plane': 35.0,
+							'Just My Luck': 12.0,
+							 'Superman Returns': 54.0, 
+							 'The Night Listener': 31.0,
+							'You, Me and Dupree': 31.0},
+
+			'relife': {'Lady in the Water': 21.0, 
+								'Snakes on a Plane': 31.0,
+								'Superman Returns': 32.0,
+								 'The Night Listener': 12.0},
+			'love': {'Snakes on a Plane': 31.0, 
+							'Just My Luck': 13.0,
+							'The Night Listener': 14.0, 
+							'Superman Returns': 42.0,
+							'You, Me and Dupree': 42.0},
+			'pain': {'Lady in the Water': 32.0, 
+							'Snakes on a Plane': 45.0,
+							'Just My Luck': 26.0, 
+							'Superman Returns': 38.0, 
+							'The Night Listener': 35.0,
+							'You, Me and Dupree': 27.0},
+			'joy': {'Lady in the Water': 35.0, 
+							'Snakes on a Plane': 45.0,
+							'The Night Listener': 35.0, 
+							'Superman Returns': 45.0, 
+							'You, Me and Dupree':35.0},
+			'neutral': {'Snakes on a Plane':0.0,
+					'You, Me and Dupree':0.0,
+					'Superman Returns':0.0}}
